@@ -2,3 +2,5 @@ Properties/*
 obj/*
 appsettings.Development.json
 appsettings.json
+.vscode
+bin
